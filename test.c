@@ -16,6 +16,7 @@ typedef struct
 }Command;
 
 //adding comment
+//adding comment
 
 void deleteNL(char **);
 int count_pipes(char *);
